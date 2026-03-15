@@ -1,6 +1,6 @@
 cask "rewordit" do
-  version "0.3.0"
-  sha256 "a8942603c6d67f8ad756e53090a8139e6f774a5228b2b2dba359ce4c1c96fff2"
+  version "1.0.0"
+  sha256 "028017216417d406fda1a0022fc317c13d2b42dfebbd852d6b2ad43f9ba1e87d"
 
   url "https://pub-4b86e3f39bea468fa3fb2854fe2c7bab.r2.dev/RewordIt-#{version}.dmg"
   name "RewordIt"
