@@ -1,8 +1,8 @@
 class Specrun < Formula
   desc "Lightweight CLI agentic workflow framework"
   homepage "https://github.com/spichen/specrun"
-  url "https://github.com/spichen/specrun/archive/refs/tags/v0.1.0-beta5.tar.gz"
-  sha256 "8cc5a048a49a9db375ae547b89fb4134f81e209e628b74c182b639ca6ce4c21f"
+  url "https://github.com/spichen/specrun/archive/refs/tags/v0.1.0-beta6.tar.gz"
+  sha256 "2840189c36a48bd9850bf52d1fc7fc1e3621d5b3de8eda6f5862ff3b01ed605b"
   license "MIT"
 
   depends_on "node@20"
